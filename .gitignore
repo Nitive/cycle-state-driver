@@ -6,4 +6,6 @@ npm-debug.log
 coverage/
 
 # project
-dist/
+extra/
+lib/
+index.*

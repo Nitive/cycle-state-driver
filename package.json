@@ -2,6 +2,13 @@
   "name": "cycle-state-driver",
   "version": "0.1.0",
   "description": "Redux like state driver for Cycle.js",
+  "scripts": {
+    "clean": "rm -rf extra/ lib/ index.*",
+    "prebuild": "npm run clean",
+    "build": "tsc -p .",
+    "tdd": "jest --watch",
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nitive/cycle-state-driver.git"

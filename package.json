@@ -23,6 +23,9 @@
     "xstream": "^9.0.0"
   },
   "dependencies": {},
+  "peerDependencies": {
+    "xstream": ">= 9.0.0"
+  },
   "jest": {
     "transform": {
       ".ts": "<rootDir>/node_modules/ts-jest/preprocessor.js"

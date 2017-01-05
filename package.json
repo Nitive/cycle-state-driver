@@ -6,6 +6,7 @@
     "clean": "rm -rf extra/ lib/ index.*",
     "prebuild": "npm run clean",
     "build": "tsc -p .",
+    "prepublish": "npm run build",
     "tdd": "jest --watch",
     "test": "jest"
   },

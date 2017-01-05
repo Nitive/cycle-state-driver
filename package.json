@@ -9,6 +9,13 @@
     "tdd": "jest --watch",
     "test": "jest"
   },
+  "files": [
+    "index.js",
+    "index.js.map",
+    "index.d.ts",
+    "lib/",
+    "extra/"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Nitive/cycle-state-driver.git"

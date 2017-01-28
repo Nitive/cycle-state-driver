@@ -1,4 +1,6 @@
 # cycle-state-driver
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Nitive/cycle-state-driver.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/Nitive/cycle-state-driver.svg?branch=travis)](https://travis-ci.org/Nitive/cycle-state-driver)
 [![Code Climate](https://codeclimate.com/github/Nitive/cycle-state-driver/badges/gpa.svg)](https://codeclimate.com/github/Nitive/cycle-state-driver)
 [![Test Coverage](https://codeclimate.com/github/Nitive/cycle-state-driver/badges/coverage.svg)](https://codeclimate.com/github/Nitive/cycle-state-driver/coverage)
